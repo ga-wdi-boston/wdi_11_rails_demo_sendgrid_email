@@ -141,6 +141,8 @@ GEM
     treetop (1.4.15)
       polyglot
       polyglot (>= 0.3.1)
+    turbolinks (2.2.1)
+      coffee-rails
     tzinfo (0.3.39)
     uglifier (2.5.0)
       execjs (>= 0.3.0)
@@ -170,4 +172,5 @@ DEPENDENCIES
   sass-rails (~> 4.0.0)
   sendgrid
   time_difference
+  turbolinks
   uglifier (>= 1.3.0)
