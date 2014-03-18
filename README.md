@@ -6,7 +6,7 @@ SendGrid is a service that allows us to not need to use our own email accounts t
 
 Together, the two of these are awesome, but require some configuration to get running on Heroku.
 
-We've added the Pony and SendGrid gems.
+We've added the Pony and SendGrid gems. Run `bundle install`
 
 Add the following to your `config/application.rb`
 
