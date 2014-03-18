@@ -14,7 +14,6 @@ Bundler.require(:default, Rails.env)
 module SendGridDemo
   class Application < Rails::Application
 
-
     Pony.options = {
       :via => :smtp,
       :via_options => {
