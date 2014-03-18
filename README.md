@@ -38,3 +38,5 @@ And then run:
 You can now send email with:
 
     Pony.mail(to: "someone@example.com", subject: "Words words words", body: "Bodies")
+
+Try to push your code to Heroku to see it working from there.
